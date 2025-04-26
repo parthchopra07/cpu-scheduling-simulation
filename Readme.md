@@ -124,13 +124,13 @@ Getting Started
 
 1.  Clone the repository:
 
-   ' git clone https://github.com/yourusername/CPU-Scheduling-Simulation.git'
+    ```git clone https://github.com/yourusername/CPU-Scheduling-Simulation.git```
 
 2.  Compile and run:
 
     
-    'javac *.java'
-    'java Main'
+    ``` javac *.java ```
+    ``` java Main ```
 3.  View reports:
 
     -   `FCFS_Report.txt`
