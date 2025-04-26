@@ -20,7 +20,7 @@ Table of Contents
 
 Project Structure
 -----------------
-
+```
 CPU-Scheduling-Simulation
 ├── Job.java                # Job entity class
 ├── JobLengthComparator.java # Comparator for SJF scheduling
@@ -30,7 +30,7 @@ CPU-Scheduling-Simulation
 ├── Scheduler1.java         # FCFS scheduler
 ├── Scheduler2.java         # SJF scheduler
 └── Simulation.java         # Job generation
-
+```
 Classes Overview
 ----------------
 
